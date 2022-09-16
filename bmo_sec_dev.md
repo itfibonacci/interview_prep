@@ -17,3 +17,7 @@ multiple security applications to protect PCs, such as anti-virus, anti-spyware,
 - Historically HIPS and firewalls are closely related. Where a firewall regulates the traffic to and from your computer based on a rule set,
 HIPS do more or less the same, but for the major changes made on your computer.
 
+
+
+
+---- just new
