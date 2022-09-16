@@ -34,3 +34,5 @@ Questions:
 - what value would I bring to this role
 - in a year's time how will you know that I have been a good hire.
 - is this similar to a soc team
+- training, initial and certs course.
+- 
