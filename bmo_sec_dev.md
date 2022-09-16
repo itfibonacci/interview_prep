@@ -21,3 +21,16 @@ HIPS do more or less the same, but for the major changes made on your computer.
 
 
 ---- just new
+
+- My AI math data science experience will help me.
+- 
+
+
+----
+
+Questions:
+
+- what would be the day to day
+- what value would I bring to this role
+- in a year's time how will you know that I have been a good hire.
+- is this similar to a soc team
