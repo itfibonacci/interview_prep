@@ -17,13 +17,16 @@ multiple security applications to protect PCs, such as anti-virus, anti-spyware,
 - Historically HIPS and firewalls are closely related. Where a firewall regulates the traffic to and from your computer based on a rule set,
 HIPS do more or less the same, but for the major changes made on your computer.
 
-
+- SIEM - security incident event management ( firewall ) automate responses.
 
 
 ---- just new
 
 - My AI math data science experience will help me.
-- ansible
+- ansible, my work helped reduce 2 days a month of wasted time. so they could concentrate on more important.
+- passion technology unique skills
+- quick learning skills. 
+- where do you see yourself in 5 years of time.
 
 
 ----
@@ -33,5 +36,6 @@ Questions:
 - what would be the day to day
 - what value would I bring to this role
 - in a year's time how will you know that I have been a good hire.
+- what would i be expected to in the first 6 months.
 - is this similar to a soc team
 - training, initial and certs course.
