@@ -30,4 +30,5 @@ situation , required  , action what i did, result ( of my action )
 - getting training in general
 - monitoring setup
 - gettings the sme on elk after a month of experience
-- 
+- certificate automation
+- getting mentoring from people who are ready/willing to help
