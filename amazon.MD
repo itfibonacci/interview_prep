@@ -28,4 +28,6 @@ situation , required  , action what i did, result ( of my action )
 - deploying dmf to kubernetes
 - ansiblizing our deployments - completely through my own initiative ( getting training on ansible )
 - getting training in general
+- monitoring setup
+- gettings the sme on elk after a month of experience
 - 
