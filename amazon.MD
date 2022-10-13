@@ -22,3 +22,10 @@ situation , required  , action what i did, result ( of my action )
 
 45-60 mins long
 
+-- stories from my life
+- decision to quit business degree after one week and go back to high school after 2 years extra of high school
+- changing degree from physics to math, then from math to math and comp sci
+- deploying dmf to kubernetes
+- ansiblizing our deployments - completely through my own initiative ( getting training on ansible )
+- getting training in general
+- 
