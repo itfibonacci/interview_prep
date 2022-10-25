@@ -32,3 +32,10 @@ situation , required  , action what i did, result ( of my action )
 - gettings the sme on elk after a month of experience
 - certificate automation
 - getting mentoring from people who are ready/willing to help
+
+
+
+
+After the offer
+- vacation, benefits ... 
+- negotiate negotiateeeee
